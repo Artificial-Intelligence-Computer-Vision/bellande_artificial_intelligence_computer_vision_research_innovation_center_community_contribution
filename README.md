@@ -11,5 +11,5 @@
 
 
 # Research
-- Research related to this organization will be in research papaer published by Ronaldson Bellande
+- Research related to this organization will be in research paper published by Ronaldson Bellande
 - None Published research will only have demos on company website
