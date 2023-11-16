@@ -12,7 +12,7 @@
 }
 
 .white-bg {
-	background: #777777
+	background: #fcfcfc
 }
 
 .black-bg {
@@ -32,7 +32,7 @@
 }
 
 .white-color {
-	color: #777777
+	color: #fcfcfc
 }
 
 .black-color {
@@ -44,7 +44,7 @@
 }
 
 .boxed-btn {
-	background: #777777;
+	background: #fcfcfc;
 	color: #00ffd5 !important;
 	display: inline-block;
 	padding: 18px 44px;
@@ -62,7 +62,7 @@
 
 .boxed-btn:hover {
 	background: #00ffd5;
-	color: #777777 !important;
+	color: #fcfcfc !important;
 	border: 1px solid #00ffd5
 }
 
@@ -212,7 +212,7 @@ a {
 }
 
 a:hover {
-	color: #777777
+	color: #fcfcfc
 }
 
 a:focus,
@@ -224,7 +224,7 @@ a:hover,
 
 a,
 button {
-	color: #777777;
+	color: #fcfcfc;
 	outline: medium none
 }
 
@@ -388,7 +388,7 @@ hr {
 }
 
 .owl-carousel:hover .owl-nav div:hover {
-	color: #777777;
+	color: #fcfcfc;
 	background: #ff3500
 }
 
@@ -397,7 +397,7 @@ hr {
 	padding: 27px 44px;
 	text-transform: capitalize;
 	font-family: "Rubik", sans-serif;
-	color: #777777;
+	color: #fcfcfc;
 	cursor: pointer;
 	display: inline-block;
 	font-size: 14px;
@@ -437,7 +437,7 @@ hr {
 
 .btn:hover::before {
 	transform: scaleX(1);
-	color: #777777 !important;
+	color: #fcfcfc !important;
 	z-index: -1
 }
 
@@ -477,7 +477,7 @@ hr {
 	height: 60px;
 	padding: 10px 20px;
 	border: 0;
-	color: #777777;
+	color: #fcfcfc;
 	text-transform: capitalize;
 	cursor: pointer;
 	font-size: 16px;
@@ -546,7 +546,7 @@ hr {
 	right: 31px;
 	bottom: 18px;
 	position: fixed;
-	color: #777777;
+	color: #fcfcfc;
 	font-size: 20px;
 	text-align: center;
 	border-radius: 50%;
@@ -569,7 +569,7 @@ hr {
 }
 
 #scrollUp:hover {
-	color: #777777
+	color: #fcfcfc
 }
 
 .sticky-bar {
@@ -584,7 +584,7 @@ hr {
 	-webkit-animation: 300ms ease-in-out 0s normal none 1 running fadeInDown;
 	animation: 300ms ease-in-out 0s normal none 1 running fadeInDown;
 	-webkit-box-shadow: 0 10px 15px rgba(25, 25, 25, 0.1);
-	background: #777777
+	background: #fcfcfc
 }
 
 .mt-5 {
