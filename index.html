@@ -131,15 +131,26 @@
                       <!-- Community -->
 
 
-                      <!-- Login -->
-                      <li><a href="#" style="color: orange;">Login</a>
+                      <!-- Signup or Login -->
+                      <li><a href="#" style="color: orange;">Signup/Login</a>
+                        <ul class="submenu">
+                          <li>
+                            <a href="#" style="color: orange;" hx-get="assets/html/signup.html" hx-target="#content"
+                              hx-swap="outerHTML" hx-trigger="click">Signup</a>
+                          </li>
+                          <li>
+                            <a href="#" style="color: orange;" hx-get="assets/html/login.html" hx-target="#content"
+                              hx-swap="outerHTML" hx-trigger="click">Login</a>
+                          </li>
+                        </ul>
                       </li>
-                      <!-- Login -->
+                      <!-- Signup or Login -->
 
-
-                      <!-- Search Bar -->
-                      <butaton type="button" class="btn text-primary ms-3" data-bs-toggle="modal"
-                        data-bs-target="#searchModal"><i class="fa fa-search"></i></butaton>
+                      <!-- Search Bar-->
+                      <button type="button" class="btn text-primary ms-3" hx-get="/search" hx-target="#searchModal"
+                        hx-trigger="click">
+                        <i class="fa fa-search"></i>
+                      </button>
                       <!-- Search Bar -->
 
 
