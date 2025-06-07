@@ -1,9 +1,9 @@
 # Bellande Artificial Intelligence Computer Vision Research Innovation Center Community Contribution
 
 # Organization Website
-- https://artificial-intelligence-computer-vision.github.io/
+- https://bellande-ai-computer-vision-research-innovation-center.org
 
-## Contribution in each aaterogy will be features in our BR&SRI Center Website
+## Contribution in each category will be features in our BAICVRI Center Website
 - Pull request
 
 
